@@ -1,0 +1,3 @@
+name: age-of-empire
+version: '${version}'
+main: fr.zuhowks.ageofempire.AgeOfEmpire
